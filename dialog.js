@@ -2,11 +2,15 @@
 * http://dimsemenov.com/plugins/magnific-popup/
 * Copyright (c) 2016 Dmitry Semenov; */
 
+/**
+ *   @require ./dialog.css
+ */
+
 ;
 (function (factory) {
     // AMD. Register as an anonymous module. 
     
-    module.exports = factory(require('Zepto')) || module.exports;;
+    module.exports = factory(require('zepto')) || module.exports;;
 }(function ($) {
     /*>>core*/
     /**
