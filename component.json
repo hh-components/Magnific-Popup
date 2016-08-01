@@ -3,6 +3,6 @@
     "version": "1.1.0",
     "description": "popup dialog",
     "name": "magnific-popup",
-    "umd2commonjs": true,
-    "main": "dialog.js"
+    "main": "jquery.magnific-popup.js",
+    "umd2commonjs": true
 }
