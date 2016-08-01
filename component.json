@@ -1,0 +1,8 @@
+{
+    "repos": "https://github.com/dimsemenov/Magnific-Popup.git",
+    "version": "1.1.0",
+    "description": "popup dialog",
+    "name": "magnific-popup",
+    "umd2commonjs": true,
+    "main": "dialog.js"
+}
